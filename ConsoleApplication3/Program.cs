@@ -11,7 +11,7 @@ namespace ConsoleApplication3
         static void Main(string[] args)
         {
             var date = new DateTime();
-           var sdsd= date.AddDays(2+3+3+2+4);
+            var sdsd = date.AddDays(2 + 3 + 3 + 2);
            var ssg = new DateTime();
         }
     }
