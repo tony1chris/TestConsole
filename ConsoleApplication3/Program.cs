@@ -12,6 +12,7 @@ namespace ConsoleApplication3
         {
             var date = new DateTime();
            var sdsd= date.AddDays(2+3+3+2);
+           var sdsdw = DateTime.Now;
         }
     }
 }
