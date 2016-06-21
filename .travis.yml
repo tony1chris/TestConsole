@@ -1,0 +1,4 @@
+language: csharp
+solution: ConsoleApplication3.sln.sln
+before_script:
+  - nuget restore ConsoleApplication3.sln
