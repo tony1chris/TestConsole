@@ -8,6 +8,6 @@ namespace ConsoleApplication3
 {
     class Class1
     {
-        public string absdccwsd1 { get; set; }
+        public string absdccwsd2331 { get; set; }
     }
 }
